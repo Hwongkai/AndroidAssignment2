@@ -1,3 +1,4 @@
 # AndroidAssignment2
-OKHTTP/ASYNCTASK
-app/main/src/
+This Assignment is about Okhttp/Asynctask
+
+See Core Code in app/main/src/
